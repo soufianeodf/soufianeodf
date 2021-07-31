@@ -8,6 +8,7 @@ I started my journey as a computer science student, and there I discovered my pa
 * 🍃 JAVA / SPRING
 * 📦 LARAVEL / LUMEN
 * 📱 React Native
+* 💾 MySQL / PostgreSQL / Firebase
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soufianeodf)](https://github.com/ryo-ma/github-profile-trophy)
 
