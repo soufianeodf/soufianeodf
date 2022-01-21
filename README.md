@@ -8,10 +8,22 @@ I started my journey as a computer science student, and there I discovered my pa
 * 🍃 JAVA 8+ / SPRING ECOSYSTEM
 * 📦 LARAVEL / LUMEN
 * 📱 React Native
-* 💾 MySQL / PostgreSQL / Firebase
+* 💾 MySQL / PostgreSQL / Firebase / ElasticSearch / MongoDB
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soufianeodf)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub metrics](https://metrics.lecoq.io/soufianeodf) 
+
+---
+
+### Latest YouTube videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [rrweb, record and replay users interaction on the web](https://www.youtube.com/watch?v=ncqNWpqQGsE)
+- [Clickstream analysis](https://www.youtube.com/watch?v=tvGMEkY7Ysw)
+- [Divolte Collector with Apache Kafka for real-time clickstream](https://www.youtube.com/watch?v=6uha8gviL9A)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+---
 
 ![Profile views](https://gpvc.arturio.dev/soufianeodf)  
