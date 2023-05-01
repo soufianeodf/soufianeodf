@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/soufianeodf](https://github.com/soufianeodf)
 
-- 📝 I regularly write articles on [https://soufianeodf.tech](https://soufianeodf.tech)
+- 📝 I regularly write articles on [https://soufianeodf.tech](https://blog.ouddaf.com)
 
 <!-- - 💬 Ask me about **blabla** -->
 
